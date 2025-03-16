@@ -21,7 +21,7 @@ This project provides a FastAPI-based API for creating AWS VPCs and subnets secu
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone <repo_url>
+   git clone https://github.com/sparate/assignment_2.git
    cd aws-vpc-api
    ```
 2. Create a virtual environment:
